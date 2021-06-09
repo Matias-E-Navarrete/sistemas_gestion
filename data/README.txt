@@ -1,3 +1,3 @@
-# Sistemas de Gestion
+#Sistemas de Gestion
 ## Caso Integrador
 ### Navarrete, Matias E.
